@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.7.2",
+    "react-router": "^6.23.1",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
